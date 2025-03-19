@@ -1,0 +1,50 @@
+[0] construction worker at a job site
+[1] construction worker at a job site
+[2] construction worker at a job site
+[3] construction worker at a job site
+[4] construction worker at a job site
+[5] construction worker at a job site
+[6] construction worker at a job site
+[7] construction worker at a job site
+[8] construction worker at a job site
+[9] construction worker at a job site
+[10] a white and orange Bobcat for moving dirt
+[11] construction workers laying new train tracks
+[12] a passenger light rail car leaving the station
+[13] blue perferated platform for the blind
+[14] a wooden plank train station platform
+[15] yellow and orange reflective jacket
+[16] train station stop
+[17] an advertisement at a train station
+[18] a row of lamp posts at a train station stop
+[19] electric rail for powering trains
+[20] train car on tracks 
+[21] The big machine with the words bobcat
+[22] orange safety cone in dirt
+[23] one worker wearing a green hat and vest
+[24] train platform is made of brown wood
+[25] train platform has metal green edge 
+[26] a speaker on the platform
+[27] the train station has lights
+[28] man in green and orange vest on platform
+[29] ice chest on a bench
+[30] the bobcat is white blue and red
+[31] the sign is yellow and black
+[32] the vest is neon green and orange
+[33] the track is rusty
+[34] the trashcan is black
+[35] the cooler is red and white
+[36] the construction hat is green is color
+[37] the construction hat is orange is color
+[38] the construction hat is white in color
+[39] the rocks and dirt is in a pile 
+[40] construction worker at a train station
+[41] construction worker at a train station
+[42] construction worker at a train station
+[43] construction worker at a train station
+[44] construction worker at a train station
+[45] construction worker at a train station
+[46] construction worker at a train station
+[47] construction worker at a train station
+[48] construction worker at a train station
+[49] construction worker at a train station

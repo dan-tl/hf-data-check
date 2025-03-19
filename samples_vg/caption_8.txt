@@ -1,0 +1,50 @@
+[0] plane at the airport
+[1] words on the side of plane
+[2] blue van at the airport
+[3] truck in front of the plane
+[4] windows on the plane
+[5] white line on the ground
+[6] bus next to the plane
+[7] car on the ground
+[8] wing on the plane
+[9] nose of the plane
+[10] airplane on an airport tarmac
+[11] name of airline is Aer Lingus
+[12] logo of Aer Lingus is a shamrock
+[13] Aer Lingus plane is green and white
+[14] vehicle getting ready to tow a plane
+[15] van on an airport tarmac has a red light on top
+[16] airport boarding corridor but no plane
+[17] bus on an airport tarmac
+[18] luggage cart on an airport tarmac
+[19] taxiing roads on an airport tarmac
+[20] a white blue and green airplane
+[21] a red and white truck
+[22] a dark blue van
+[23] a blue and white bus
+[24] a white van on tarmac
+[25] a red and white vehicle
+[26] an airport tarmac
+[27] a passenger loading ramp
+[28] a passenger loading ramp
+[29] an airplane jet engine
+[30] shamrock on tail of plane
+[31] navy blue van on tarmac
+[32] orange, black, and white truck
+[33] "caution" stripes on back of truck
+[34] light blue school bus
+[35] small white utility van
+[36] blue and white docking area
+[37] man hitching plane to truck
+[38] plane company logo on side of plane
+[39] orange light on top of blue van
+[40] A white three leaf clover on a plane.
+[41] A small green three leaf clover on a plane.
+[42] A light blue passenger bus.
+[43] A red, white and blue automobile attached to the plane.
+[44] Dark blue van with light on hood.
+[45] Airplane that is green and white with blue stripe.
+[46] Small flag painted on side of plane.
+[47] The number 74 painted on car attached to plane.
+[48] WWhite car parked between plane and bus. 
+[49] Airplane's green and white tail. 

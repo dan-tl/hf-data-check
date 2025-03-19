@@ -1,0 +1,50 @@
+[0] woman's left eye 
+[1] woman eating a large doughnut  
+[2] black cookie crumbles on doughnut 
+[3] woman's unpainted natural fingernail 
+[4] woman's extended middle finger 
+[5] woman's blonde hair in front of eye
+[6] woman's dark eyelashes on right eye 
+[7] woman's freckled nose 
+[8] knuckles on a woman's left hand 
+[9] woman's right hand palm 
+[10] donut with chocolate pieces.
+[11] chocolate piece on top of donut
+[12] Woman's face
+[13] Woman eating a donut
+[14] Hands holding a donut
+[15] Mouth biting a donut
+[16] Eyes staring straight forward
+[17] Woman holding a donut
+[18] Glazed and covered donut
+[19] A partially eaten donut
+[20] freckles on the girl
+[21] The fingertip on the doughnut
+[22] A glazed doughtnut
+[23] Crumbs on the top
+[24] The hand holding the doughnut
+[25] She bites the doughnut
+[26] A post on the street
+[27] The post is white
+[28] The girls eyes
+[29] The nose of the girl
+[30] blond bangs hang around side of forehead
+[31] woman taking bite of pastry
+[32] cinnamon and chocolate chips on pastry
+[33] woman holds pastry with both hands
+[34] woman with blond hair and black eyelashes
+[35] blurry background behind woman
+[36] left index finger holds pastry
+[37] thumb leans against chin
+[38] pastry crumbs on finger
+[39] back view of someone in a chair
+[40] Person has blonde hair.
+[41] Person has brown eyelashes.
+[42] Person has freckles on nose.
+[43] Person has light colored eye brows.
+[44] Person holding donut.
+[45] Dark colored seasoning on top of donut.
+[46] Donut is light brown in color.
+[47] Person holding donut in right hand.
+[48] Person wearing white shirt.
+[49] Person is eating donut.

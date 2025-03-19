@@ -1,0 +1,5 @@
+[0] a person that is surfing on some water in the ocean
+[1] A woman riding a wave on top of a surfboard.
+[2] A person riding a surfboard, in the middle of the ocean.
+[3] A surfer rides a wave in the water.
+[4] A person in a wet suit riding a wave on a surfboard.

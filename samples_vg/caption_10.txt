@@ -1,0 +1,42 @@
+[0] bikes on the street
+[1] front tire of bike
+[2] shadow on the ground
+[3] light hitting the ground
+[4] light and shadow
+[5] number on the bike
+[6] black seat on the bike
+[7] light on the bike
+[8] gate behind the bikes
+[9] bike in the background
+[10] three parked motorcycles on asphalt
+[11] headlight on front of motorcycle
+[12] letters and numbers on fender
+[13] black seat on bike
+[14] red and chrome gas tank
+[15] wood block under tire
+[16] metal rods in railing
+[17] cement on top of ramp
+[18] chrome exhaust pipe on bike
+[19] brake and handle on handlebar
+[20] a red and black motorcycle
+[21] a gold and black motorcycle
+[22] a black motorcycle
+[23] a piece of 2x4 blocking a motorcycle wheel
+[24] the shadow of a motorcycle on the ground
+[25] a concrete ramp
+[26] a metal railing
+[27] the padded black seat of a motorcycle
+[28] the headlight of a motorcycle
+[29] the exhaust pipe of a motorcycle
+[30] shadow of motorcycle on ground
+[31] motorcycle is red and black
+[32] white letters and numbers
+[33] words spell usj946
+[34] motorcycle is gold colored
+[35] the seat is black
+[36] words spell ssu394
+[37] the motorcycle is black
+[38] kick stand is down
+[39] yellow object in front of motorcycle
+[40] the bike has tires
+[41] the bike has tires

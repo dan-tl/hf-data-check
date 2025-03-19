@@ -1,0 +1,50 @@
+[0] This is bus number 486
+[1] Do not enter sign
+[2] Stop sign
+[3] Three men wearing hats
+[4] Man is holding a newspaper
+[5] Passengers waiting to board the bus
+[6] Street light
+[7] Do not walk sign
+[8] Bus is traveling to El Monte station
+[9] Bus is at Pomona station
+[10] white large bus on bustation
+[11] bunch of people in line two get the bus
+[12] six big black windows on right side of the bus 
+[13] green number 486 on the screen at the top of the bus
+[14] black signboard with white numers in it
+[15] black with blue plaid shirt and sand pants standing in a side of the bus
+[16] grey roof in the right side
+[17] dar blue, medium blue and light blue line in front of the bus
+[18] black bumper in front of the bus 
+[19] man standing at a side of the bus with blue cap and black t-shirt
+[20] digital street sign
+[21] group of people on the sidewalk
+[22] man wearing a checkered shirt
+[23] old man wearing a black jacket
+[24] white and blue city bus
+[25] man wearing a striped shirt
+[26] three men wearing hats
+[27] large bus windshield
+[28] long brown hair
+[29] man wearing blue jeans
+[30] People waiting at a bus stop.
+[31] One of the support beams for the roof.
+[32] Two plants.
+[33] The man is wearing a hat.
+[34] An electric display with the name of the destination.
+[35] A street sign.
+[36] Solar panels.
+[37] The man is wearing a jacket.
+[38] A large white bus.
+[39] The man is wearing a striped shirt.
+[40] the numbers are yellow
+[41] the numbers are green
+[42] the shirt is blue and white plaid 
+[43] the jacket is black
+[44] the hat is blue
+[45] the hat is grey 
+[46] the shirt is white and black stripes
+[47] the pillar is white 
+[48] the light cover is orange
+[49] the sign is white and red

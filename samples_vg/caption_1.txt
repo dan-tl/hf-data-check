@@ -1,0 +1,49 @@
+[0] a bright orange fruit
+[1] a bright orange fruit
+[2] a bright orange fruit
+[3] a half sliced orange
+[4] a half sliced orange
+[5] a brown wooden knife
+[6] a jar of jam
+[7] a jar of jam
+[8] a plaid blue jar lid
+[9] a folded white cloth
+[10] orange text reading Naranja
+[11] orange text reading Orange
+[12] half of an orange on a wooden table
+[13] wooden utensil on a table
+[14] half of an orange on a white cloth
+[15] blue striped jar lid
+[16] glass jar filled with an orange substance
+[17] jar on a white cloth
+[18] three oranges on a wooden table
+[19] green leaf of an orange on a table
+[20] The oranges are together
+[21] The orange is cut
+[22] The table is wooden
+[23] The jar top is checkard
+[24] The knife is wooden
+[25] The jar is see through
+[26] The cloth is white
+[27] The cloth in the back is checkard
+[28] The table is brown
+[29] The orange is orange
+[30] edge of a table
+[31] part of an orange
+[32] top of a table 
+[33] piece of an orange 
+[34] part of a juice
+[35] part of a cloth
+[36] edge of the table 
+[37] part of a spoon
+[38] tip of a cloth 
+[39] edge of a board
+[40] part of an orange 
+[41] inside part of an orange
+[42] part of a table
+[43] edge of a table
+[44] part of a spoon
+[45] top of a table
+[46] edge of a tray
+[47] edge of a table
+[48] part of a cloth 

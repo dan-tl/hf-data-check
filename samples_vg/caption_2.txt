@@ -1,0 +1,50 @@
+[0] boy is petting horse
+[1] the horse is brown
+[2] boy has dreads in hair
+[3] boy is wearing a watch
+[4] boy's shirt is blue
+[5] white patch on horse's face
+[6] wooden fence between horse and boy
+[7] picture belongs to cheriej photography
+[8] picture taken in 2012
+[9] horse's hair is brown
+[10] person is wearing a watch 
+[11] the brown horse 
+[12] the wood fence 
+[13] perosn is wearing a blue jean jacket 
+[14] persons hair 
+[15] tree trunks
+[16] the person is touching the horse 
+[17] the horse has brown hair 
+[18] ears of the horse 
+[19] eye of the horse 
+[20] girl with braids in hair
+[21] girl's hand petting horse's nose
+[22] horse's white blaze
+[23] girl petting horse
+[24] grey wooden rail fence
+[25] barbed wire fencing
+[26] trees in distance with no leaves
+[27] green pine trees in distance
+[28] photo taken by CherieJPhotography in 2012
+[29] long red mane of horse
+[30] black hair in dreadlocks
+[31] horse's mane, light brown
+[32] wooden fence bar
+[33] girl in blue jacket stroking a horse's head
+[34] silver-plated wristwatch
+[35] wooden fence post
+[36] trees and bushes in background
+[37] white stripe down the middle of the horse's head
+[38] bare roaming grounds
+[39] copyright notice
+[40] the horse has a long mane
+[41] the mane of the horse is brown
+[42] the head of the horse has a star and a stripe
+[43] the girl is petting the horse
+[44] the girl is wearing a watch
+[45] the girl's hair is black
+[46] the girl has a blue jean jacket on
+[47] a wooden fence is around the pen
+[48] woods are behind the enclosure
+[49] the horse's nose is black

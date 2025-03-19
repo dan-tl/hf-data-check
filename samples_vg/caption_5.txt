@@ -1,0 +1,43 @@
+[0] very tall trees in the forest
+[1] a gray pick-up truck
+[2] a grey Toyota truck
+[3] travel trailer pulled by truck
+[4] a crude wooden fence
+[5] a vehicle in the background
+[6] a small ladder for access
+[7] a Nomad travel trailer
+[8] license tag on front of truck
+[9] a peach colored sign
+[10] nomad brand camping trailer
+[11] dark colored pick up truck
+[12] wooden split rail fence
+[13] head light of pick up truck
+[14] logo of brand of pick up
+[15] window in camping trailer
+[16] trunk of tall pine tree
+[17] front windshield of pick up truck
+[18] front license plate of pick up truck
+[19] right front tire of truck
+[20] a car
+[21] a car
+[22] a car
+[23] the very tall green tree
+[24] the very tall green tree
+[25] the very tall green trees
+[26] the very tall green tree
+[27] the parked truck
+[28] the parked white trailer
+[29] the wooden fence near the truck
+[30] the leaves on the ground
+[31] the word on the trailer
+[32] the logo on the truck
+[33] black pickup truck
+[34] brown wooden fence in ground
+[35] white camper vehicle 
+[36] white camper attached to pickup truck
+[37] giant evergreen tree trunk
+[38] evergreen trees in the woods
+[39] campsite in wooded area
+[40] camping trailer pulled by truck
+[41] tall evergreen trees in the woods
+[42] pickup truck and camper parked in campsite

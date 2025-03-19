@@ -1,0 +1,5 @@
+[0] some people a red couch and two are playing a video game
+[1] They are playing a video game together on the couch.
+[2] Two people playing a video game while two other people watch.
+[3] People sitting on a couch, playing a video game using remotes.
+[4] Four people are gathered to play video games.

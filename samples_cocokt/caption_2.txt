@@ -1,0 +1,5 @@
+[0] A surfer is slammed with water while riding a wave.
+[1] A surfer on the surfboard on top of waves in the ocean. 
+[2] A surfer rides a red surfboard on a wave.
+[3] A man in a wetsuit is surfing in the waves. 
+[4] A man wearing a blue suit is riding a pink surfboard in the ocean.

@@ -1,0 +1,50 @@
+[0] People walking on the sidewalk.
+[1] A bicycle parked on the edge of the sidewalk.
+[2] A man standing on the sidewalk.
+[3] Car driving down the street.
+[4] Cars parked on the side of the street.
+[5] KFC sign above the building.
+[6] The sign is written in Chinese.
+[7] The headlights on the car.
+[8] Tall buildings in the background.
+[9] It is dark outside.
+[10] a business promotional sign
+[11] a business promotional sign
+[12] a neon business promotional sign
+[13] a business promotional sign
+[14] a business promotional sign
+[15] a business promotional sign
+[16] a business promotional sign
+[17] a business promotional sign
+[18] a business promotional sign
+[19] a paved city street
+[20] bright led lights
+[21] the cars that are on the road
+[22] road signs line the street
+[23] a kfc sign hangs above the road
+[24] pedestrians walking on the sidewalk
+[25] signs that hang above shops lining the street
+[26] three cars waiting to continue driving
+[27] a car that is turning
+[28] a bike site on the side of the road
+[29] lights that hang above the stores
+[30] KFC sign in front of 7-11 sign
+[31] KFC sign is lit
+[32] 7-11 sign is lit
+[33] Man walking next to woman
+[34] Starbucks Coffee banner above building
+[35] Starbucks Coffee banner is green
+[36] Red small car has door open
+[37] Bike attached to metal rail
+[38] Yellow traffic line on road
+[39] Light on car is on
+[40] lots of cars parked on side of street
+[41] car with headlights driving down the street
+[42] paved street with white and yellow lines
+[43] red KFC advertisement sign up high
+[44] red and white sign on a black pole
+[45] 7-eleven red, white and green advertisement sign
+[46] couple of people walking down the sidewalk
+[47] town in the dark with neon lights lit up
+[48] building with lights on in the background
+[49] restaurant has a purple sign with Chinese words
